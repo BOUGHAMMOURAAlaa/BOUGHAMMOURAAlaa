@@ -88,6 +88,8 @@
 <a href="https://www.credly.com/users/alaa-boughammoura/"><img src="MicroservicesBuilder.png" alt="alaa-boughammoura" width="75" height="75"/></a>
 <a href="https://www.credly.com/users/alaa-boughammoura/"><img src="AWSCloudFondations.png" alt="alaa-boughammoura" width="75" height="75"/></a>
 <a href="https://www.credly.com/users/alaa-boughammoura/"><img src="ITSpecialistJavaScript.png" alt="alaa-boughammoura" width="75" height="75"/></a>
+<a href="https://www.credly.com/users/alaa-boughammoura/"><img src="CDK.png" alt="alaa-boughammoura" width="75" height="75"/></a>
+<a href="https://www.credly.com/users/alaa-boughammoura/"><img src="VPC.png" alt="alaa-boughammoura" width="75" height="75"/></a>
 </p> 
 
 

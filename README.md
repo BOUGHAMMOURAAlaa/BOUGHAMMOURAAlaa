@@ -81,8 +81,13 @@
 
 ---
 ### 📛 Certifications & Badges
-
-
+<p align="center">
+<a href="https://www.credly.com/users/alaa-boughammoura/"><img src="CloudDeveloping.png" alt="alaa-boughammoura" width="75" height="75"/></a>
+<a href="https://www.credly.com/users/alaa-boughammoura/"><img src="CloudFondations.png" alt="alaa-boughammoura" width="75" height="75"/></a>
+<a href="https://www.credly.com/users/alaa-boughammoura/"><img src="CloudWebApplicationBuilder.png" alt="alaa-boughammoura" width="75" height="75"/></a>
+<a href="https://www.credly.com/users/alaa-boughammoura/"><img src="MicroservicesBuilder.png" alt="alaa-boughammoura" width="75" height="75"/></a>
+<a href="https://www.credly.com/users/alaa-boughammoura/"><img src="AWSCloudFondations.png" alt="alaa-boughammoura" width="75" height="75"/></a>
+<a href="https://www.credly.com/users/alaa-boughammoura/"><img src="ITSpecialistJavaScript.png" alt="alaa-boughammoura" width="75" height="75"/></a>
 </p> 
 
 

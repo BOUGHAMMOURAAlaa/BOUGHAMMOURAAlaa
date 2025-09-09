@@ -8,7 +8,7 @@
  Cloud & DevOps Enthusiast | Engineering Student at SESAME | 🎓 Exchange Semester at CY Tech (France)  |  ☁️ AWS Certified (CLF-02)  
 </p>
 <p align="center">
-  <a href="https://boughammouraalaa.github.io/alaa-boughammoura/" target="_blank">
+  <a href="https://boughammouraalaa.github.io/Boughammoura-Alaa/" target="_blank">
     🌐 Visit My Portfolio
   </a>
 </p>

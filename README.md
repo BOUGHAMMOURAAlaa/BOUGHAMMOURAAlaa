@@ -118,7 +118,7 @@
 ### 💬 Connect with Me!
 
 <p align="center">
-  <a href="https://www.linkedin.com/in/alaa-boughammoura-9ab024284/" target="_blank">
+  <a href="https://www.linkedin.com/in/alaa-boughammoura/" target="_blank">
     <img src="https://img.icons8.com/color/48/linkedin.png" width="40"/>
   </a>
   <a href="mailto: alaa.boughammoura@hotmail.com" target="_blank">
